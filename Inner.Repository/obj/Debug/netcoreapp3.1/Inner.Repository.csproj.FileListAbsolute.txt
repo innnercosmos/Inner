@@ -1,0 +1,15 @@
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.Repository.deps.json
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.Repository.dll
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.Repository.pdb
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.IRepository.dll
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.Model.dll
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.IRepository.pdb
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.Model.pdb
+F:\students\netcore\Inner\Inner.Repository\bin\Debug\netcoreapp3.1\Inner.Model.xml
+F:\students\netcore\Inner\Inner.Repository\obj\Debug\netcoreapp3.1\Inner.Repository.csprojAssemblyReference.cache
+F:\students\netcore\Inner\Inner.Repository\obj\Debug\netcoreapp3.1\Inner.Repository.AssemblyInfoInputs.cache
+F:\students\netcore\Inner\Inner.Repository\obj\Debug\netcoreapp3.1\Inner.Repository.AssemblyInfo.cs
+F:\students\netcore\Inner\Inner.Repository\obj\Debug\netcoreapp3.1\Inner.Repository.csproj.CopyComplete
+F:\students\netcore\Inner\Inner.Repository\obj\Debug\netcoreapp3.1\Inner.Repository.dll
+F:\students\netcore\Inner\Inner.Repository\obj\Debug\netcoreapp3.1\Inner.Repository.pdb
+F:\students\netcore\Inner\Inner.Repository\obj\Debug\netcoreapp3.1\Inner.Repository.csproj.CoreCompileInputs.cache

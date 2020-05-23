@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Inner</name>
+    </assembly>
+    <members>
+        <member name="T:Inner.Controllers.LoginController">
+            <summary>
+            登录管理【无权限】
+            </summary>
+        </member>
+        <member name="T:Inner.Controllers.WeatherForecastController">
+            <summary>
+            天气demo
+            </summary>
+        </member>
+        <member name="M:Inner.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{Inner.Controllers.WeatherForecastController})">
+            <summary>
+            WeatherForecastController接口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Controllers.WeatherForecastController.Get">
+            <summary>
+            WeatherForecast_get接口
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns>返回一个实现了 IHost 接口的实例(IHostBuilder)</returns>
+        </member>
+        <member name="T:Inner.WeatherForecast">
+            <summary>
+            天气实体
+            </summary>
+        </member>
+        <member name="P:Inner.WeatherForecast.Date">
+            <summary>
+            日期
+            </summary>
+        </member>
+        <member name="P:Inner.WeatherForecast.TemperatureC">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Inner.WeatherForecast.TemperatureF">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Inner.WeatherForecast.Summary">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Inner.Model</name>
+    </assembly>
+    <members>
+        <member name="P:Inner.Model.Models.SysUser.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="T:Inner.Love">
+            <summary>
+            这是爱
+            </summary>
+        </member>
+        <member name="P:Inner.Love.Id">
+            <summary>
+            id
+            </summary>
+        </member>
+        <member name="P:Inner.Love.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:Inner.Love.Age">
+            <summary>
+            年龄
+            </summary>
+        </member>
+    </members>
+</doc>

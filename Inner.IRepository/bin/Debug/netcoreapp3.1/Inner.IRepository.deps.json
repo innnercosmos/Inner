@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inner.IRepository/1.0.0": {
+        "dependencies": {
+          "Inner.Model": "1.0.0"
+        },
+        "runtime": {
+          "Inner.IRepository.dll": {}
+        }
+      },
+      "Inner.Model/1.0.0": {
+        "runtime": {
+          "Inner.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inner.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inner.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

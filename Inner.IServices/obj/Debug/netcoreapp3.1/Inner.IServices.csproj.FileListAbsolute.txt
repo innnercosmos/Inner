@@ -1,0 +1,9 @@
+F:\students\netcore\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.deps.json
+F:\students\netcore\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.dll
+F:\students\netcore\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.pdb
+F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csproj.CoreCompileInputs.cache
+F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.AssemblyInfoInputs.cache
+F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.AssemblyInfo.cs
+F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.dll
+F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.pdb
+F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csprojAssemblyReference.cache

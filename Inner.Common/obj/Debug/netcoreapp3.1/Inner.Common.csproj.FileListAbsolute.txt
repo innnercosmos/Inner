@@ -1,0 +1,10 @@
+F:\students\netcore\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.deps.json
+F:\students\netcore\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.dll
+F:\students\netcore\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.AssemblyInfoInputs.cache
+F:\students\netcore\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.AssemblyInfo.cs
+F:\students\netcore\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.csproj.CoreCompileInputs.cache
+F:\students\netcore\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.pdb
+F:\students\netcore\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.dll
+F:\students\netcore\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.pdb
+F:\students\netcore\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.xml
+F:\students\netcore\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.csprojAssemblyReference.cache
