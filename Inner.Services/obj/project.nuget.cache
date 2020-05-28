@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tpqd4NdYrUCGi107FlOLJi2Qng3D2iIc6X3BqLl5DbShz8DH3hEPTeXItkLZyaUkHjbAFmICv4JLnrYNLlYMFA==",
+  "dgSpecHash": "FuWjrQw9fPX/ZvGDEGVnFn6y5z/Y23SJkjexLsSvjsC93g3pbKXNDDrks7t6FDaYMrvvEI2Edv+2krQ4xJswAA==",
   "success": true,
-  "projectFilePath": "F:\\students\\netcore\\Inner\\Inner.Services\\Inner.Services.csproj",
+  "projectFilePath": "F:\\students\\github\\Inner\\Inner.Services\\Inner.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
@@ -43,7 +43,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.osx\\1.1.12\\sqlitepclraw.lib.e_sqlite3.osx.1.1.12.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.v110_xp\\1.1.12\\sqlitepclraw.lib.e_sqlite3.v110_xp.1.1.12.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3.netstandard11\\1.1.12\\sqlitepclraw.provider.e_sqlite3.netstandard11.1.1.12.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\sqlsugarcore\\5.0.0.14\\sqlsugarcore.5.0.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlsugarcore\\5.0.0.15\\sqlsugarcore.5.0.0.15.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

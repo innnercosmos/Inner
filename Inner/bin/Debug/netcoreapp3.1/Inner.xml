@@ -4,6 +4,13 @@
         <name>Inner</name>
     </assembly>
     <members>
+        <member name="M:Inner.Controllers.BlogController.Get(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
         <member name="T:Inner.Controllers.LoginController">
             <summary>
             登录管理【无权限】

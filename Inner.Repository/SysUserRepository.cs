@@ -47,10 +47,10 @@ namespace Inner.Repository
             return i > 0;
         }
 
-        public SysUserDto GetUserInfoById(string id)
-        {
-            throw new NotImplementedException();
-        }
+        //public SysUserDto GetUserInfoById(string id)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
         public List<SysUser> Query(Expression<Func<SysUser, bool>> whereExpression)
         {

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Inner.IServices;
+using Inner.Model.Models;
 using Inner.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -14,6 +15,7 @@ namespace Inner.Controllers
     [ApiController]
     [Authorize]
     [Produces("application/json")]
+    //[Authorize(Policy ="Admin")]
     public class BlogController : ControllerBase
     {
         public BlogController()
@@ -25,6 +27,19 @@ namespace Inner.Controllers
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
+        }
+        // GET: api/Blog/5
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        [HttpGet("{id}", Name = "Get")]
+        public List<SysUser> Get(int id)
+        {
+            ISysUserService sysuserservice = new SysUserService();
+
+            return sysuserservice.Query(d => d.Id == id);
         }
         ISysUserService _sysUserService = new SysUserService();
         //ISysUserRepository _sysUserService = new SysUserRepository();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siSfQwZtAU4m+roivXfBteJAJesQhQRsbZiTL1LPMEQVMk03AiIIGE7nlXduoXa0FtDpeJ0E4EgBKsoIJqJK3w==",
+  "dgSpecHash": "yGI8ZNldicspqZR8hGYUc1X7HebYHG7oUYqylEDqPFkwmxTXNXYJcQwN86GpZoCYSJvJhVYCjP5jp9kyg9LdCw==",
   "success": true,
-  "projectFilePath": "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
+  "projectFilePath": "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

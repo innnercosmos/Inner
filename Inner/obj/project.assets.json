@@ -1217,7 +1217,7 @@
           "lib/netstandard1.1/SQLitePCLRaw.provider.e_sqlite3.dll": {}
         }
       },
-      "sqlSugarCore/5.0.0.14": {
+      "sqlSugarCore/5.0.0.15": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.Sqlite": "2.2.4",
@@ -2642,7 +2642,7 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Inner.IRepository": "1.0.0",
-          "sqlSugarCore": "5.0.0.14"
+          "sqlSugarCore": "5.0.0.15"
         },
         "compile": {
           "bin/placeholder/Inner.Repository.dll": {}
@@ -4502,15 +4502,15 @@
         "sqlitepclraw.provider.e_sqlite3.netstandard11.nuspec"
       ]
     },
-    "sqlSugarCore/5.0.0.14": {
-      "sha512": "IEj5Nd8KqwqOGH4JtlHAUa7FB537KER753o/hTl8nj3Lb3eiPsENfk3HG1Nw90juuXrCzHryiYzKL1oxJEr1bQ==",
+    "sqlSugarCore/5.0.0.15": {
+      "sha512": "FqrEwUmBHQlFVpuQdBUeqJkznDFRA4oW3UJUGt2n2g1w74NhBfG3uwhvIK3WKjm17awHgpBJXtAKRN3N/3LpUQ==",
       "type": "package",
-      "path": "sqlsugarcore/5.0.0.14",
+      "path": "sqlsugarcore/5.0.0.15",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/SqlSugar.dll",
-        "sqlsugarcore.5.0.0.14.nupkg.sha512",
+        "sqlsugarcore.5.0.0.15.nupkg.sha512",
         "sqlsugarcore.nuspec"
       ]
     },
@@ -8268,11 +8268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner\\Inner.csproj",
+      "projectUniqueName": "F:\\students\\github\\Inner\\Inner\\Inner.csproj",
       "projectName": "Inner",
-      "projectPath": "F:\\students\\netcore\\Inner\\Inner\\Inner.csproj",
+      "projectPath": "F:\\students\\github\\Inner\\Inner\\Inner.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\students\\netcore\\Inner\\Inner\\obj\\",
+      "outputPath": "F:\\students\\github\\Inner\\Inner\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8288,17 +8288,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\students\\netcore\\Inner\\Inner.Common\\Inner.Common.csproj": {
-              "projectPath": "F:\\students\\netcore\\Inner\\Inner.Common\\Inner.Common.csproj"
+            "F:\\students\\github\\Inner\\Inner.Common\\Inner.Common.csproj": {
+              "projectPath": "F:\\students\\github\\Inner\\Inner.Common\\Inner.Common.csproj"
             },
-            "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj": {
-              "projectPath": "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj"
+            "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj": {
+              "projectPath": "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj"
             },
-            "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {
-              "projectPath": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj"
+            "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj": {
+              "projectPath": "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj"
             },
-            "F:\\students\\netcore\\Inner\\Inner.Services\\Inner.Services.csproj": {
-              "projectPath": "F:\\students\\netcore\\Inner\\Inner.Services\\Inner.Services.csproj"
+            "F:\\students\\github\\Inner\\Inner.Services\\Inner.Services.csproj": {
+              "projectPath": "F:\\students\\github\\Inner\\Inner.Services\\Inner.Services.csproj"
             }
           }
         }

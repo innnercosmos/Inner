@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {}
+    "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj": {}
   },
   "projects": {
-    "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {
+    "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectUniqueName": "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj",
         "projectName": "Inner.Model",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectPath": "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.Model\\obj\\",
+        "outputPath": "F:\\students\\github\\Inner\\Inner.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -237,11 +237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.Common\\Inner.Common.csproj",
+      "projectUniqueName": "F:\\students\\github\\Inner\\Inner.Common\\Inner.Common.csproj",
       "projectName": "Inner.Common",
-      "projectPath": "F:\\students\\netcore\\Inner\\Inner.Common\\Inner.Common.csproj",
+      "projectPath": "F:\\students\\github\\Inner\\Inner.Common\\Inner.Common.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\students\\netcore\\Inner\\Inner.Common\\obj\\",
+      "outputPath": "F:\\students\\github\\Inner\\Inner.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

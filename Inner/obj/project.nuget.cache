@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/w4W0FxzrRSjK0d3JcxknRDa237vXqf7Iqi6wv+lyz1qrkIgYKBEkImd0aOOP4Ka9WObbLr/3ihRQWi1NvXbJg==",
+  "dgSpecHash": "iRv2wW3Y/AEj1IlYK0u1wQ2bJF0GhRDRCap3wmZjtFzXIs/bEylCdQi5YtqMk6pBSHzoGKyHokwuaGbtRp7ODQ==",
   "success": true,
-  "projectFilePath": "F:\\students\\netcore\\Inner\\Inner\\Inner.csproj",
+  "projectFilePath": "F:\\students\\github\\Inner\\Inner\\Inner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.3\\microsoft.aspnetcore.authentication.jwtbearer.3.1.3.nupkg.sha512",
@@ -86,7 +86,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.osx\\1.1.12\\sqlitepclraw.lib.e_sqlite3.osx.1.1.12.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.v110_xp\\1.1.12\\sqlitepclraw.lib.e_sqlite3.v110_xp.1.1.12.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3.netstandard11\\1.1.12\\sqlitepclraw.provider.e_sqlite3.netstandard11.1.1.12.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\sqlsugarcore\\5.0.0.14\\sqlsugarcore.5.0.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sqlsugarcore\\5.0.0.15\\sqlsugarcore.5.0.0.15.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.0.0\\swashbuckle.aspnetcore.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\swashbuckle.aspnetcore.filters\\5.1.1\\swashbuckle.aspnetcore.filters.5.1.1.nupkg.sha512",

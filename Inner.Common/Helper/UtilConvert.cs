@@ -2,8 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Inner.Model
+namespace Inner.Common.Helper
 {
+    /// <summary>
+    /// 全局的数据类型转换方法
+    /// </summary>
     public static class UtilConvert
     {
         /// <summary>

@@ -4,11 +4,6 @@
         <name>Inner.Model</name>
     </assembly>
     <members>
-        <member name="P:Inner.Model.Models.SysUser.Id">
-            <summary>
-            ID
-            </summary>
-        </member>
         <member name="T:Inner.Love">
             <summary>
             这是爱
@@ -27,6 +22,72 @@
         <member name="P:Inner.Love.Age">
             <summary>
             年龄
+            </summary>
+        </member>
+        <member name="T:Inner.Model.MessageModel`1">
+            <summary>
+            通用返回信息类
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:Inner.Model.MessageModel`1.status">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="P:Inner.Model.MessageModel`1.success">
+            <summary>
+            操作是否成功
+            </summary>
+        </member>
+        <member name="P:Inner.Model.MessageModel`1.msg">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+        <member name="P:Inner.Model.MessageModel`1.response">
+            <summary>
+            返回数据集合
+            </summary>
+        </member>
+        <member name="P:Inner.Model.Models.SysUser.Id">
+            <summary>
+            ID
+            </summary>
+        </member>
+        <member name="P:Inner.Model.Models.SysUser.Name">
+            <summary>
+            账户
+            </summary>
+        </member>
+        <member name="P:Inner.Model.Models.SysUser.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="T:Inner.Model.TableModel`1">
+            <summary>
+            表格数据，支持分页
+            </summary>
+        </member>
+        <member name="P:Inner.Model.TableModel`1.Code">
+            <summary>
+            返回编码
+            </summary>
+        </member>
+        <member name="P:Inner.Model.TableModel`1.Msg">
+            <summary>
+            返回信息
+            </summary>
+        </member>
+        <member name="P:Inner.Model.TableModel`1.Count">
+            <summary>
+            记录总数
+            </summary>
+        </member>
+        <member name="P:Inner.Model.TableModel`1.Data">
+            <summary>
+            返回数据集
             </summary>
         </member>
     </members>

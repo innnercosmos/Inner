@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\students\\netcore\\Inner\\Inner.Services\\Inner.Services.csproj": {}
+    "F:\\students\\github\\Inner\\Inner.Services\\Inner.Services.csproj": {}
   },
   "projects": {
-    "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
+    "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
+        "projectUniqueName": "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
         "projectName": "Inner.IRepository",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
+        "projectPath": "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.IRepository\\obj\\",
+        "outputPath": "F:\\students\\github\\Inner\\Inner.IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {
-                "projectPath": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj"
+              "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj": {
+                "projectPath": "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj": {
+    "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj",
+        "projectUniqueName": "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj",
         "projectName": "Inner.IServices",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj",
+        "projectPath": "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.IServices\\obj\\",
+        "outputPath": "F:\\students\\github\\Inner\\Inner.IServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {
-                "projectPath": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj"
+              "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj": {
+                "projectPath": "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {
+    "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectUniqueName": "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj",
         "projectName": "Inner.Model",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectPath": "F:\\students\\github\\Inner\\Inner.Model\\Inner.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.Model\\obj\\",
+        "outputPath": "F:\\students\\github\\Inner\\Inner.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,14 +168,14 @@
         }
       }
     },
-    "F:\\students\\netcore\\Inner\\Inner.Repository\\Inner.Repository.csproj": {
+    "F:\\students\\github\\Inner\\Inner.Repository\\Inner.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.Repository\\Inner.Repository.csproj",
+        "projectUniqueName": "F:\\students\\github\\Inner\\Inner.Repository\\Inner.Repository.csproj",
         "projectName": "Inner.Repository",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.Repository\\Inner.Repository.csproj",
+        "projectPath": "F:\\students\\github\\Inner\\Inner.Repository\\Inner.Repository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.Repository\\obj\\",
+        "outputPath": "F:\\students\\github\\Inner\\Inner.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -191,8 +191,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
-                "projectPath": "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj"
+              "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
+                "projectPath": "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj"
               }
             }
           }
@@ -208,7 +208,7 @@
           "dependencies": {
             "sqlSugarCore": {
               "target": "Package",
-              "version": "[5.0.0.14, )"
+              "version": "[5.0.0.15, )"
             }
           },
           "imports": [
@@ -230,14 +230,14 @@
         }
       }
     },
-    "F:\\students\\netcore\\Inner\\Inner.Services\\Inner.Services.csproj": {
+    "F:\\students\\github\\Inner\\Inner.Services\\Inner.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.Services\\Inner.Services.csproj",
+        "projectUniqueName": "F:\\students\\github\\Inner\\Inner.Services\\Inner.Services.csproj",
         "projectName": "Inner.Services",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.Services\\Inner.Services.csproj",
+        "projectPath": "F:\\students\\github\\Inner\\Inner.Services\\Inner.Services.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.Services\\obj\\",
+        "outputPath": "F:\\students\\github\\Inner\\Inner.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -253,14 +253,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
-                "projectPath": "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj"
+              "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
+                "projectPath": "F:\\students\\github\\Inner\\Inner.IRepository\\Inner.IRepository.csproj"
               },
-              "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj": {
-                "projectPath": "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj"
+              "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj": {
+                "projectPath": "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj"
               },
-              "F:\\students\\netcore\\Inner\\Inner.Repository\\Inner.Repository.csproj": {
-                "projectPath": "F:\\students\\netcore\\Inner\\Inner.Repository\\Inner.Repository.csproj"
+              "F:\\students\\github\\Inner\\Inner.Repository\\Inner.Repository.csproj": {
+                "projectPath": "F:\\students\\github\\Inner\\Inner.Repository\\Inner.Repository.csproj"
               }
             }
           }

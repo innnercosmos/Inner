@@ -13,7 +13,7 @@ namespace Inner.IRepository
         /// </summary>
         /// <param name="id">患者id</param>
         /// <returns>患者信息</returns>
-        SysUserDto GetUserInfoById(string id);
+        //SysUserDto GetUserInfoById(string id);
 
         int Sum(int i, int j);
 

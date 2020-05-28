@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/43yOBQ7dJylLdAyrCIQXIkv1QF8d2gzDbKxc7ZGtYyN6BTn9lH43kwFDH8yHHjSSAhrYlsM9msu40+oFHZQUQ==",
+  "dgSpecHash": "DAHZSaSpQ5VAT8nf1HmG2x6r7Hle6LGOhLJJNQfep78tcONacb8Hf1NqLRKnVxIrW9e1GESCPR41jHrhp2STWQ==",
   "success": true,
-  "projectFilePath": "F:\\students\\netcore\\Inner\\Inner.IServices\\Inner.IServices.csproj",
+  "projectFilePath": "F:\\students\\github\\Inner\\Inner.IServices\\Inner.IServices.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

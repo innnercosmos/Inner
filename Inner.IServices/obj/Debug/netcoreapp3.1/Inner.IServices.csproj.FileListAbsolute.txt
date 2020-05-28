@@ -7,3 +7,16 @@ F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IService
 F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.dll
 F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.pdb
 F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csprojAssemblyReference.cache
+F:\students\github\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.deps.json
+F:\students\github\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.dll
+F:\students\github\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.pdb
+F:\students\github\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.Model.dll
+F:\students\github\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.Model.pdb
+F:\students\github\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.Model.xml
+F:\students\github\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csprojAssemblyReference.cache
+F:\students\github\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csproj.CoreCompileInputs.cache
+F:\students\github\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.AssemblyInfoInputs.cache
+F:\students\github\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.AssemblyInfo.cs
+F:\students\github\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csproj.CopyComplete
+F:\students\github\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.dll
+F:\students\github\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.pdb

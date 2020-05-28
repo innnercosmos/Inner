@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qvYk4xXTKXo/5s80BioZ7rXLvVZqMN+9CyChkV2K25M5MEHFzYrQPoBsiDQvQtv5U0CxNF6YdAs9jVCECdx3Og==",
+  "dgSpecHash": "QWBWr3Ff2TfV4dbe8LgpVObYmxRfjEZpGE4OJYqtLk4gIh+oMYYZTPRRwZTCx/OzVp+d6PaMtMzq2yjRKIoAXQ==",
   "success": true,
-  "projectFilePath": "F:\\students\\netcore\\Inner\\Inner.Common\\Inner.Common.csproj",
+  "projectFilePath": "F:\\students\\github\\Inner\\Inner.Common\\Inner.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
