@@ -7,3 +7,16 @@ F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IService
 F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.dll
 F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.pdb
 F:\students\netcore\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csprojAssemblyReference.cache
+F:\fly\student\gittest\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.deps.json
+F:\fly\student\gittest\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.dll
+F:\fly\student\gittest\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.IServices.pdb
+F:\fly\student\gittest\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.Model.dll
+F:\fly\student\gittest\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.Model.pdb
+F:\fly\student\gittest\Inner\Inner.IServices\bin\Debug\netcoreapp3.1\Inner.Model.xml
+F:\fly\student\gittest\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csprojAssemblyReference.cache
+F:\fly\student\gittest\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csproj.CoreCompileInputs.cache
+F:\fly\student\gittest\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.AssemblyInfoInputs.cache
+F:\fly\student\gittest\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.AssemblyInfo.cs
+F:\fly\student\gittest\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.csproj.CopyComplete
+F:\fly\student\gittest\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.dll
+F:\fly\student\gittest\Inner\Inner.IServices\obj\Debug\netcoreapp3.1\Inner.IServices.pdb

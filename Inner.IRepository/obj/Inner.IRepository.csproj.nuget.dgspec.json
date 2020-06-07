@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {}
+    "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {}
   },
   "projects": {
-    "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
+    "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
+        "projectUniqueName": "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
         "projectName": "Inner.IRepository",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
+        "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.IRepository\\obj\\",
+        "outputPath": "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {
-                "projectPath": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj"
+              "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj": {
+                "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj"
               }
             }
           }
@@ -56,18 +56,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj": {
+    "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectUniqueName": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj",
         "projectName": "Inner.Model",
-        "projectPath": "F:\\students\\netcore\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\students\\netcore\\Inner\\Inner.Model\\obj\\",
+        "outputPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Inner.Common\Inner.Common.csproj" />
     <ProjectReference Include="..\Inner.IRepository\Inner.IRepository.csproj" />
   </ItemGroup>
 

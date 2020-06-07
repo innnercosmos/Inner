@@ -3,8 +3,12 @@ using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using Autofac;
+using Autofac.Extras.DynamicProxy;
+using Inner.AOP;
 using Inner.Common.DB;
 using Inner.Common.Helper;
 using Inner.IServices;
@@ -31,6 +35,7 @@ namespace Inner
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+
         }
 
         public IConfiguration Configuration { get; }
@@ -42,6 +47,9 @@ namespace Inner
             services.AddSingleton(new Appsettings(Configuration));
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();//去掉netcore默认的   httpcontext 转换    【jwt参数】
+            //数据库
+            BaseDBConfig.ConnectionString = Configuration.GetSection("AppSettings:SqlServerConnection").Value;
+
             #region   JWT
             //读取配置文件
             var audienceConfig = Configuration.GetSection("Audience");
@@ -146,6 +154,10 @@ namespace Inner
             #endregion
 
 
+            #region autofac
+
+            #endregion
+
             services.AddControllers(
                  //配置可输出xml格式
                  //op =>
@@ -193,6 +205,33 @@ namespace Inner
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
+        }
+
+
+        // 注意在CreateDefaultBuilder中，添加Autofac服务工厂
+        public void ConfigureContainer(ContainerBuilder builder)
+        {
+
+            var basePath = Microsoft.DotNet.PlatformAbstractions.ApplicationEnvironment.ApplicationBasePath;
+
+            //直接注册某一个类和接口
+            //左边的是实现类，右边的As是接口
+            builder.RegisterType<SysUserService>().As<ISysUserService>();
+            builder.RegisterType<InnerLogAOP>();//可以直接替换其他拦截器！一定要把拦截器进行注册
+
+            //注册要通过反射创建的组件
+            //TYPE1
+            //var servicesDllFile = Path.Combine(basePath, "Inner.Services.dll");
+            //var assemblysServices = Assembly.LoadFrom(servicesDllFile);  //   Assembly.LoadFile
+            //TYPE2
+            var assemblysServices = Assembly.Load("Inner.Services");
+
+            builder.RegisterAssemblyTypes(assemblysServices)
+                      .AsImplementedInterfaces()
+                      .InstancePerLifetimeScope()
+                      .EnableInterfaceInterceptors()  //对目标类型启用接口拦截。拦截器将被确定，通过在类或接口上截取属性, 或添加 InterceptedBy ()
+                      .InterceptedBy(typeof(InnerLogAOP));//可以放一个AOP拦截器集合;  //允许将拦截器服务的列表分配给注册。说人话就是，将拦截器添加到要注入容器的接口或者类之上。
+
         }
     }
 }

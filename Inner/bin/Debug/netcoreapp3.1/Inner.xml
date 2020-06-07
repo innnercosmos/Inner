@@ -4,6 +4,12 @@
         <name>Inner</name>
     </assembly>
     <members>
+        <member name="M:Inner.AOP.InnerLogAOP.Intercept(Castle.DynamicProxy.IInvocation)">
+            <summary>
+            实例化IInterceptor唯一方法 
+            </summary>
+            <param name="invocation">包含被拦截方法的信息</param>
+        </member>
         <member name="T:Inner.Controllers.LoginController">
             <summary>
             登录管理【无权限】
@@ -14,15 +20,15 @@
             天气demo
             </summary>
         </member>
-        <member name="M:Inner.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{Inner.Controllers.WeatherForecastController})">
+        <member name="M:Inner.Controllers.WeatherForecastController.#ctor(Microsoft.Extensions.Logging.ILogger{Inner.Controllers.WeatherForecastController},Inner.IServices.ISysUserService)">
             <summary>
             WeatherForecastController接口
             </summary>
             <returns></returns>
         </member>
-        <member name="M:Inner.Controllers.WeatherForecastController.Get">
+        <member name="M:Inner.Controllers.WeatherForecastController.Get1">
             <summary>
-            WeatherForecast_get接口
+            获取接口数据
             </summary>
             <returns></returns>
         </member>

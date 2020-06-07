@@ -9,6 +9,88 @@
             ID
             </summary>
         </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToInt(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToInt(System.Object,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToMoney(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToMoney(System.Object,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToString(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToString(System.Object,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToDecimal(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToDecimal(System.Object,System.Decimal)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToDate(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToDate(System.Object,System.DateTime)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <param name="errorValue"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Inner.Model.UtilConvert.ObjToBool(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="thisValue"></param>
+            <returns></returns>
+        </member>
         <member name="T:Inner.Love">
             <summary>
             这是爱

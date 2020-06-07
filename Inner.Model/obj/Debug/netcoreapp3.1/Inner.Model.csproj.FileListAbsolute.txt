@@ -8,3 +8,13 @@ F:\students\netcore\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.Assemb
 F:\students\netcore\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.dll
 F:\students\netcore\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.pdb
 F:\students\netcore\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.csprojAssemblyReference.cache
+F:\fly\student\gittest\Inner\Inner.Model\bin\Debug\netcoreapp3.1\Inner.Model.deps.json
+F:\fly\student\gittest\Inner\Inner.Model\bin\Debug\netcoreapp3.1\Inner.Model.dll
+F:\fly\student\gittest\Inner\Inner.Model\bin\Debug\netcoreapp3.1\Inner.Model.pdb
+F:\fly\student\gittest\Inner\Inner.Model\bin\Debug\netcoreapp3.1\Inner.Model.xml
+F:\fly\student\gittest\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.csprojAssemblyReference.cache
+F:\fly\student\gittest\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.csproj.CoreCompileInputs.cache
+F:\fly\student\gittest\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.AssemblyInfoInputs.cache
+F:\fly\student\gittest\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.AssemblyInfo.cs
+F:\fly\student\gittest\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.dll
+F:\fly\student\gittest\Inner\Inner.Model\obj\Debug\netcoreapp3.1\Inner.Model.pdb

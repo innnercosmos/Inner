@@ -11,3 +11,16 @@ F:\students\netcore\Inner\Inner.IRepository\bin\Debug\netcoreapp3.1\Inner.Model.
 F:\students\netcore\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.csproj.CopyComplete
 F:\students\netcore\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.dll
 F:\students\netcore\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.pdb
+F:\fly\student\gittest\Inner\Inner.IRepository\bin\Debug\netcoreapp3.1\Inner.IRepository.deps.json
+F:\fly\student\gittest\Inner\Inner.IRepository\bin\Debug\netcoreapp3.1\Inner.IRepository.dll
+F:\fly\student\gittest\Inner\Inner.IRepository\bin\Debug\netcoreapp3.1\Inner.IRepository.pdb
+F:\fly\student\gittest\Inner\Inner.IRepository\bin\Debug\netcoreapp3.1\Inner.Model.dll
+F:\fly\student\gittest\Inner\Inner.IRepository\bin\Debug\netcoreapp3.1\Inner.Model.pdb
+F:\fly\student\gittest\Inner\Inner.IRepository\bin\Debug\netcoreapp3.1\Inner.Model.xml
+F:\fly\student\gittest\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.csprojAssemblyReference.cache
+F:\fly\student\gittest\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.csproj.CoreCompileInputs.cache
+F:\fly\student\gittest\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.AssemblyInfoInputs.cache
+F:\fly\student\gittest\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.AssemblyInfo.cs
+F:\fly\student\gittest\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.csproj.CopyComplete
+F:\fly\student\gittest\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.dll
+F:\fly\student\gittest\Inner\Inner.IRepository\obj\Debug\netcoreapp3.1\Inner.IRepository.pdb
