@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XYDGWBPgUYxbBowb96l1FE3aJT4zzEVvIQvcAzgeleTLc9eULqY8HmXuM6GznHGTL2caXJ16SaxAP5/z2tqn8A==",
+  "dgSpecHash": "3JUQYHgR7vYooTQVrxuGxHmQNExE9y4YJv3L3BMXcq1abF3t3012/MwK1ELyZ5DDtpoV5psqXG+XgOzKEL/igg==",
   "success": true,
-  "projectFilePath": "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
+  "projectFilePath": "F:\\fly\\student\\Inner\\Inner.IRepository\\Inner.IRepository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

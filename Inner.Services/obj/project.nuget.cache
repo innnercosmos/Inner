@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sntPno5+kSkHrT82vLPAiLwl67Y4jFNgDSdPIc49WromV7JFDovwovWgflgXAQjytVBlP8aFtvTnE/kAPBtDjw==",
+  "dgSpecHash": "ifbN3+TRXBVazV4rZsrxi+0IzvxJEAWBBdRwhK508wGpC9Y1upVN3elEtu4okqrDA2HltF0UMCPn01SesaKhAQ==",
   "success": true,
-  "projectFilePath": "F:\\fly\\student\\gittest\\Inner\\Inner.Services\\Inner.Services.csproj",
+  "projectFilePath": "F:\\fly\\student\\Inner\\Inner.Services\\Inner.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\google.protobuf\\3.5.1\\google.protobuf.3.5.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

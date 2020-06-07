@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vRVhMPO4ssNHTP6PEvDpbBZZAYMkBWssJ2REDz7FpgiE+vHtaF5fQaonNKoeVEly7BBs8v6kUncAxEX/dbYnqw==",
+  "dgSpecHash": "zy/83DgsWDTe5PewSsW1kMKKhgofS2CKgG8rwEMAb4r3hZrT2/lv1cR6uEvNb/SvWRm4pNMzR7Oc1Ix1Q4Wwaw==",
   "success": true,
-  "projectFilePath": "F:\\fly\\student\\gittest\\Inner\\Inner.Common\\Inner.Common.csproj",
+  "projectFilePath": "F:\\fly\\student\\Inner\\Inner.Common\\Inner.Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",

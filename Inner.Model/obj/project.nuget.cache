@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "00B+//6ZtP2FeJ9AfVqKp9HNddJr3DECCbcMeUERZGCfbyL3rqf3j8aN6+3u1H+QNV/9p69j/OXihEKSyqfy/w==",
+  "dgSpecHash": "ascl8bYUnn46luIUc98GjV4JMsb98rKt7T9hiHEBbg5ilkWCg3XNavR/Dxkq02Cm3SfEL9L0FkhvDuWcPxkVUw==",
   "success": true,
-  "projectFilePath": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj",
+  "projectFilePath": "F:\\fly\\student\\Inner\\Inner.Model\\Inner.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -6581,11 +6581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\fly\\student\\gittest\\Inner\\Inner.Repository\\Inner.Repository.csproj",
+      "projectUniqueName": "F:\\fly\\student\\Inner\\Inner.Repository\\Inner.Repository.csproj",
       "projectName": "Inner.Repository",
-      "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Repository\\Inner.Repository.csproj",
+      "projectPath": "F:\\fly\\student\\Inner\\Inner.Repository\\Inner.Repository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Repository\\obj\\",
+      "outputPath": "F:\\fly\\student\\Inner\\Inner.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6601,11 +6601,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\fly\\student\\gittest\\Inner\\Inner.Common\\Inner.Common.csproj": {
-              "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Common\\Inner.Common.csproj"
+            "F:\\fly\\student\\Inner\\Inner.Common\\Inner.Common.csproj": {
+              "projectPath": "F:\\fly\\student\\Inner\\Inner.Common\\Inner.Common.csproj"
             },
-            "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
-              "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.IRepository\\Inner.IRepository.csproj"
+            "F:\\fly\\student\\Inner\\Inner.IRepository\\Inner.IRepository.csproj": {
+              "projectPath": "F:\\fly\\student\\Inner\\Inner.IRepository\\Inner.IRepository.csproj"
             }
           }
         }

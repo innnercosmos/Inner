@@ -18,3 +18,13 @@ F:\fly\student\gittest\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.A
 F:\fly\student\gittest\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.AssemblyInfo.cs
 F:\fly\student\gittest\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.dll
 F:\fly\student\gittest\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.pdb
+F:\fly\student\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.deps.json
+F:\fly\student\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.dll
+F:\fly\student\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.pdb
+F:\fly\student\Inner\Inner.Common\bin\Debug\netcoreapp3.1\Inner.Common.xml
+F:\fly\student\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.csprojAssemblyReference.cache
+F:\fly\student\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.csproj.CoreCompileInputs.cache
+F:\fly\student\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.AssemblyInfoInputs.cache
+F:\fly\student\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.AssemblyInfo.cs
+F:\fly\student\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.dll
+F:\fly\student\Inner\Inner.Common\obj\Debug\netcoreapp3.1\Inner.Common.pdb

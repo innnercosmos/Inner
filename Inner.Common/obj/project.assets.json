@@ -237,11 +237,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\fly\\student\\gittest\\Inner\\Inner.Common\\Inner.Common.csproj",
+      "projectUniqueName": "F:\\fly\\student\\Inner\\Inner.Common\\Inner.Common.csproj",
       "projectName": "Inner.Common",
-      "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Common\\Inner.Common.csproj",
+      "projectPath": "F:\\fly\\student\\Inner\\Inner.Common\\Inner.Common.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Common\\obj\\",
+      "outputPath": "F:\\fly\\student\\Inner\\Inner.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mFNMAhSwfPx9Dn5jk0WXe2ogAFD884898idAYjsEEuRuRDOhIx9b0bs96/WIqKIk5/N70kjvAHgE5uGt+OCzg==",
+  "dgSpecHash": "7fE0AAGhS1SAGElp2VsDF3yb+LKTzhBrFtFb73HqZo1Y+5qtool4E2rn9y2IRsjztXbw7SUfQ9GqXfT50hrnDg==",
   "success": true,
-  "projectFilePath": "F:\\fly\\student\\gittest\\Inner\\Inner\\Inner.csproj",
+  "projectFilePath": "F:\\fly\\student\\Inner\\Inner\\Inner.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\5.1.0\\autofac.5.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\autofac.extensions.dependencyinjection\\6.0.0\\autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",

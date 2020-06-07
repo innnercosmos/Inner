@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QowOE8gNLhOIce363YlTRT+iIBgWIhARiiK4EUclU1WYLq1WGq1gwb8l4Y8JR1eVOq4WCuZCeYXG0mTK81cUqQ==",
+  "dgSpecHash": "X1t3uJbCjtouFe5umdupzweg9SPLt4fDJBvVf+7Iyk97O9J8hpAJzzHgHbmtaUl6qkdCT2GfzyEtl7QrZAx3XQ==",
   "success": true,
-  "projectFilePath": "F:\\fly\\student\\gittest\\Inner\\Inner.IServices\\Inner.IServices.csproj",
+  "projectFilePath": "F:\\fly\\student\\Inner\\Inner.IServices\\Inner.IServices.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

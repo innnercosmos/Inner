@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj": {}
+    "F:\\fly\\student\\Inner\\Inner.Model\\Inner.Model.csproj": {}
   },
   "projects": {
-    "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj": {
+    "F:\\fly\\student\\Inner\\Inner.Model\\Inner.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectUniqueName": "F:\\fly\\student\\Inner\\Inner.Model\\Inner.Model.csproj",
         "projectName": "Inner.Model",
-        "projectPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\Inner.Model.csproj",
+        "projectPath": "F:\\fly\\student\\Inner\\Inner.Model\\Inner.Model.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\fly\\student\\gittest\\Inner\\Inner.Model\\obj\\",
+        "outputPath": "F:\\fly\\student\\Inner\\Inner.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
